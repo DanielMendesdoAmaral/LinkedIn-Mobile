@@ -1,1 +1,1 @@
-# LinkedIn-Mobile
+Projeto de estudos de aplicações real-time.
